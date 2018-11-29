@@ -1,1 +1,3 @@
-# my-ci
+# maven-project
+
+Simple Maven Project
